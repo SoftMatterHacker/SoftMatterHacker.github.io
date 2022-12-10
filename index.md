@@ -20,14 +20,19 @@ title: SoftMatterHacker.com
 
 * Prospective PhD and honours students: check our research projects page to see where you might want to work.
 
-### 
+## Research areas
 
-You probably don't want the present guide to be the front page of your website, so you should edit the `index.md` file. You probably also want to edit or delete the `CONTRIBUTING.md`, `README.md` and `LICENSE.md` files.
+* Formulated product development and scale-up - Develop and evaluate innovative microstructured fluid products with biological and industrial relevance.
 
-Aside from that you can of course create new pages and posts like with any Jekyll website by refering to the [Jekyll documentation](https://jekyllrb.com/).
+* Rheology measurement and design - Novel approaches to understanding the microstructure behind commercial fluid flows and performance
 
-### What we do
+* 3D printing - Use surprising materials to print three-dimensional designs. How will your new food, biomaterial, cosmetic, or coating behave when you try to 3D print with it?
 
+* Engineered nanocellulose - Harness bacterial producers of cellulose nanofibers to weave, template, and manufacture advanced materials.
+
+* Emulsions and their shapes - Emulsion droplets are used in vaccines, pesticides, cosmetics, and foods by dispersing one liquid, like an oil, in another, like water.
+
+* Cubosome and hexosome nanoparticles - Nanostructured liquid crystal particles with unique shape and biological function.
 
 
 ## Websites using Bootstrap 4 Github Pages
