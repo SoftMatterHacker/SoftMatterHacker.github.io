@@ -13,30 +13,31 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bootstrap 4 Github Pages
+
+title: SoftMatterHacker.com
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  A Bootstrap 4 start up project for Jekyll and Github Pages
+  A homepage for the Complex Fluids group at UNSW
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
-
-repository: "nicolas-van/bootstrap-4-github-pages"
-
+twitter_username: SoftMatterHackr
+github_username:  SoftMatterHacker
+#repository: "nicolas-van/bootstrap-4-github-pages"
+  
 # Build settings
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
-# A list of the pages to display in the navigation bar
-header_pages:
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - update_boostrap.sh
+  - jekyll-relative-links
+#  - jekyll-feed
+#  - jekyll-sitemap
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
