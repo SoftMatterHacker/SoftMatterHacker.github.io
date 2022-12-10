@@ -35,17 +35,7 @@ title: SoftMatterHacker.com
 * Cubosome and hexosome nanoparticles - Nanostructured liquid crystal particles with unique shape and biological function.
 
 
-## Websites using Bootstrap 4 Github Pages
+## Websites on soft mnatter and complex fluids
 
 * [My personal blog](https://nicolas-van.github.io/)
-* [the wavelet's profile](https://thewavelet.github.io/)
-* [William Moore's website](https://will2bill.com/)
-* [roseblood.github.io](https://roseleblood.github.io/)
-* [borislouis.github.io](https://borislouis.github.io/)
-* [dariusnwadike.github.io](https://dariusnwadike.github.io/)
-* [libcoap.net](https://libcoap.net/)
-
-
-* [Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
-* [Parcel Github Pages Boilerplate](https://github.com/nicolas-van/parcel-github-pages-boilerplate)
 
