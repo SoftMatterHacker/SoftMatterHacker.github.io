@@ -35,6 +35,7 @@ title: SoftMatterHacker.com
 * Cubosome and hexosome nanoparticles - Nanostructured liquid crystal particles with unique shape and biological function.
 
 ## Recent articles
+
 1. Hosseini, M., Babayekhorasani, F., Guo, Z., Liang, K., Chen, V., Spicer, P. T., Propulsion, deformation, and confinement response of hollow nanocellulose millimotors, J. Coll. Int. Sci., 628, 435-445, (2022). pdf or preprint
 
 1. Marasini, N., Sheikh, Z., Wong, C., Hosseini, M., Spicer, P. T., Young, P., Ong, H. X., Traini, D., Development of excipients free inhalable co-spray-dried tobramycin and diclofenac formulations for cystic fibrosis using two and three fluid nozzles, Int. J. Pharm., 624, 121989, (2022). pdf
@@ -52,7 +53,7 @@ title: SoftMatterHacker.com
 ## Recent blog posts
 
 
-## Websites on soft mnatter and complex fluids
+## Websites on soft matter and complex fluids
 
 * [My personal blog](https://nicolas-van.github.io/)
 
