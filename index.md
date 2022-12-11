@@ -53,7 +53,31 @@ title: SoftMatterHacker.com
 ## Recent blog posts
 
 
+## Recent talks
+
+Mar 2022 Arrested emulsion gels: Interpenetrating 3D colloid-droplet structures: ACS Spring 2022
+Dec 2021 Designing complex fluid rheology - microstructure and measurements: International Conference on Rheology
+Nov 2021 Returning to Academia from Industry: UNSW Chemical Engineering Research Society
+Oct 2021 3D arrested emulsion microstructures: Dow Chemical Interfacial Seminar
+Apr 2021 Rheology primer: RMIT School of Physics
+Mar 2021 The safest (colloidal) jellyfish in Australia!: CCNY Dept. Chemical Engineering
+Feb 2021 Rheology and job security: Australian Synchrotron Users Mtg.
+Feb 2021 Emulsions under arrest: ACIS Keynote in Food Colloids
+
+## Teaching
+
+## Biography
+
+Pat Spicer received a BS in Chemical Engineering from the University of Delaware in 1992. In 1997 he completed a PhD in Chemical Engineering with the Particle Technology Group at the University of Cincinnati. There his research focused on design and synthesis of colloidal and nanoparticle materials. After defending his thesis, he went to work for the Procter & Gamble Company, leading their Crystallization group in the Corporate Engineering Division and supporting the scale-up and manufacture of complex fluid products for all of P&G's product areas.
+
+Recognizing the importance of fluid microstructures to product and process quality, in 2006 Pat formed P&G's Microfluidics and Structured Fluids group, responsible for development, characterization, scale-up, and modeling of microstructured fluids and processes. Utilizing broad capability in microscopy, microfluidics, and microrheology, the Mu Crew made significant contributions to all of P&G's liquid billion dollar brands and collaborated with many of the leading academic groups focused on soft materials and complex fluids.
+
+After 15 years with P&G, Pat began work as an Associate Professor of Chemical Engineering at the University of New South Wales in Sydney, Australia. There his research focuses on the design and development of microstructured fluid materials by understanding their kinetic behavior. His areas of focus in the field include the understanding of particle shape effects on materials performance, interactions of soft matter with biological systems, and scale-up of soft matter manufacturing processes when attributes other than composition control product quality.
+
+A more flamboyant overview of my career can be found here!
+
+
 ## Websites on soft matter and complex fluids
 
-* [My personal blog](https://nicolas-van.github.io/)
+* [Weitzlab](http://weitzlab.seas.harvard.edu/index.html)
 
