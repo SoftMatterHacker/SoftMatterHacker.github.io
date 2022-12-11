@@ -79,5 +79,5 @@ A more flamboyant overview of my career can be found here!
 
 ## Websites on soft matter and complex fluids
 
-* [Weitzlab](http://weitzlab.seas.harvard.edu/index.html)
+* [Weitzlab](https://weitzlab.seas.harvard.edu/)
 
