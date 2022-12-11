@@ -105,4 +105,4 @@ A more flamboyant overview of my career can be found [here](https://www.futurefo
 * [Weitzlab](https://weitzlab.seas.harvard.edu/)
 
 
-*** Contact: ptspicer at gmail dot com ***
+**Contact: ptspicer at gmail dot com**
