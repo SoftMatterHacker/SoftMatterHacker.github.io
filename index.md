@@ -3,9 +3,6 @@ layout: default
 title: SoftMatterHacker.com
 ---
 
-# SoftMatterHacker.com
-
-
 ## What we do - People
 
 * Focus on the understanding, design, and creation of soft materials and complex liquid microstructures in commercial products, biological tissues, and even soft robots.
