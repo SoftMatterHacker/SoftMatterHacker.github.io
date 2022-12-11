@@ -6,7 +6,7 @@ title: SoftMatterHacker.com
 # SoftMatterHacker.com
 
 
-## What we do
+## What we do - People
 
 * Focus on the understanding, design, and creation of soft materials and complex liquid microstructures in commercial products, biological tissues, and even soft robots.
 
@@ -20,7 +20,7 @@ title: SoftMatterHacker.com
 
 * Prospective PhD and honours students: check our research projects page to see where you might want to work.
 
-## Research areas
+## Research areas - Project pages
 
 * Formulated product development and scale-up - Develop and evaluate innovative microstructured fluid products with biological and industrial relevance.
 
@@ -34,7 +34,7 @@ title: SoftMatterHacker.com
 
 * Cubosome and hexosome nanoparticles - Nanostructured liquid crystal particles with unique shape and biological function.
 
-## Recent articles
+## Recent articles - All publications
 
 1. Hosseini, M., Babayekhorasani, F., Guo, Z., Liang, K., Chen, V., Spicer, P. T., Propulsion, deformation, and confinement response of hollow nanocellulose millimotors, J. Coll. Int. Sci., 628, 435-445, (2022). pdf or preprint
 
@@ -50,10 +50,17 @@ title: SoftMatterHacker.com
 
 1. Giso, M., Zhao, H., Spicer, P. T., & Atherton, T., A phase diagram of morphologies for anisotropic particles sculpted from emulsions. JCIS, 605, 138-145 (2022). pdf
 
-## Recent blog posts
+## Recent blog posts - All blog posts
 
+* 2017.03.11 ImageJ: Analyzing motion study
 
-## Recent talks
+* 2017.01.22 ImageJ: Analyzing touching circles to characterize emulsion droplets
+
+* 2017.01.22 Tools you need: ImageJ and FIJI
+
+* 2014.02.05 Who we are
+
+## Recent talks - All talks
 
 Mar 2022 Arrested emulsion gels: Interpenetrating 3D colloid-droplet structures: ACS Spring 2022
 Dec 2021 Designing complex fluid rheology - microstructure and measurements: International Conference on Rheology
@@ -64,7 +71,13 @@ Mar 2021 The safest (colloidal) jellyfish in Australia!: CCNY Dept. Chemical Eng
 Feb 2021 Rheology and job security: Australian Synchrotron Users Mtg.
 Feb 2021 Emulsions under arrest: ACIS Keynote in Food Colloids
 
-## Teaching
+## Teaching - UNSW Sydney courses
+
+* CEIC4007: Chemical Product Design Project Thesis A
+
+* CEIC4008: Chemical Product Design Project Thesis B
+
+* CEIC6711: Complex Fluid Microstructure and Rheology
 
 ## Biography
 
