@@ -25,6 +25,7 @@ github_username:  SoftMatterHacker
 #repository: "nicolas-van/bootstrap-4-github-pages"
   
 # Build settings
+theme: slate
 plugins:
   - jekyll-relative-links
 #  - jekyll-feed
