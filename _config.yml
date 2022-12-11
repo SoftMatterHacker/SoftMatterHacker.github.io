@@ -25,20 +25,18 @@ github_username:  SoftMatterHacker
 #repository: "nicolas-van/bootstrap-4-github-pages"
   
 # Build settings
-theme: slate
+remote_theme: pages-themes/slate@v0.2.0
+
 plugins:
+- jekyll-remote-theme
   - jekyll-relative-links
 #  - jekyll-feed
 #  - jekyll-sitemap
+
 relative_links:
   enabled: true
   collections: true
+
 include:
-  - CONTRIBUTING.md
+  - index.md
   - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
