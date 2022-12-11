@@ -20,6 +20,7 @@ title: SoftMatterHacker.com
 
 * Prospective PhD and honours students: check our research projects page to see where you might want to work.
 
+
 ## Research areas - Project pages
 
 * Formulated product development and scale-up - Develop and evaluate innovative microstructured fluid products with biological and industrial relevance.
@@ -33,6 +34,7 @@ title: SoftMatterHacker.com
 * Emulsions and their shapes - Emulsion droplets are used in vaccines, pesticides, cosmetics, and foods by dispersing one liquid, like an oil, in another, like water.
 
 * Cubosome and hexosome nanoparticles - Nanostructured liquid crystal particles with unique shape and biological function.
+
 
 ## Recent articles - All publications
 
@@ -50,6 +52,7 @@ title: SoftMatterHacker.com
 
 1. Giso, M., Zhao, H., Spicer, P. T., & Atherton, T., A phase diagram of morphologies for anisotropic particles sculpted from emulsions. JCIS, 605, 138-145 (2022). pdf
 
+
 ## Recent blog posts - All blog posts
 
 * 2017.03.11 ImageJ: Analyzing motion study
@@ -60,16 +63,25 @@ title: SoftMatterHacker.com
 
 * 2014.02.05 Who we are
 
+
 ## Recent talks - All talks
 
-Mar 2022 Arrested emulsion gels: Interpenetrating 3D colloid-droplet structures: ACS Spring 2022
-Dec 2021 Designing complex fluid rheology - microstructure and measurements: International Conference on Rheology
-Nov 2021 Returning to Academia from Industry: UNSW Chemical Engineering Research Society
-Oct 2021 3D arrested emulsion microstructures: Dow Chemical Interfacial Seminar
-Apr 2021 Rheology primer: RMIT School of Physics
-Mar 2021 The safest (colloidal) jellyfish in Australia!: CCNY Dept. Chemical Engineering
-Feb 2021 Rheology and job security: Australian Synchrotron Users Mtg.
-Feb 2021 Emulsions under arrest: ACIS Keynote in Food Colloids
+* Mar 2022 Arrested emulsion gels: Interpenetrating 3D colloid-droplet structures: ACS Spring 2022
+
+* Dec 2021 Designing complex fluid rheology - microstructure and measurements: International Conference on Rheology
+
+* Nov 2021 Returning to Academia from Industry: UNSW Chemical Engineering Research Society
+
+* Oct 2021 3D arrested emulsion microstructures: Dow Chemical Interfacial Seminar
+
+* Apr 2021 Rheology primer: RMIT School of Physics
+
+* Mar 2021 The safest (colloidal) jellyfish in Australia!: CCNY Dept. Chemical Engineering
+
+* Feb 2021 Rheology and job security: Australian Synchrotron Users Mtg.
+
+* Feb 2021 Emulsions under arrest: ACIS Keynote in Food Colloids
+
 
 ## Teaching - UNSW Sydney courses
 
@@ -78,6 +90,7 @@ Feb 2021 Emulsions under arrest: ACIS Keynote in Food Colloids
 * CEIC4008: Chemical Product Design Project Thesis B
 
 * CEIC6711: Complex Fluid Microstructure and Rheology
+
 
 ## Biography
 
