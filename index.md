@@ -13,7 +13,7 @@ title: SoftMatterHacker.com
 
 * Work with industry and academic partners to understand complex fluid product and material performance and design novel complex fluid materials and products.
 
-* More background on our group and members can be found at our UNSW site and in this post.
+* More background on our group and members can be found at our [UNSW site](https://research.unsw.edu.au/people/associate-professor-patrick-spicer) and in this post.
 
 * Prospective PhD and honours students: check our research projects page to see where you might want to work.
 
@@ -35,7 +35,7 @@ title: SoftMatterHacker.com
 
 ## Recent articles - All publications
 
-1. Hosseini, M., Babayekhorasani, F., Guo, Z., Liang, K., Chen, V., Spicer, P. T., Propulsion, deformation, and confinement response of hollow nanocellulose millimotors, J. Coll. Int. Sci., 628, 435-445, (2022). pdf or preprint
+1. Hosseini, M., Babayekhorasani, F., Guo, Z., Liang, K., Chen, V., Spicer, P. T., Propulsion, deformation, and confinement response of hollow nanocellulose millimotors, J. Coll. Int. Sci., 628, 435-445, (2022). [pdf](https://nonequilibrium.com/.../pdf/Maryam%20Millimotors%20JCIS.pdf) or [preprint](http://arxiv.org/abs/2206.03232)
 
 1. Marasini, N., Sheikh, Z., Wong, C., Hosseini, M., Spicer, P. T., Young, P., Ong, H. X., Traini, D., Development of excipients free inhalable co-spray-dried tobramycin and diclofenac formulations for cystic fibrosis using two and three fluid nozzles, Int. J. Pharm., 624, 121989, (2022). pdf
 
@@ -97,10 +97,12 @@ Recognizing the importance of fluid microstructures to product and process quali
 
 After 15 years with P&G, Pat began work as an Associate Professor of Chemical Engineering at the University of New South Wales in Sydney, Australia. There his research focuses on the design and development of microstructured fluid materials by understanding their kinetic behavior. His areas of focus in the field include the understanding of particle shape effects on materials performance, interactions of soft matter with biological systems, and scale-up of soft matter manufacturing processes when attributes other than composition control product quality.
 
-A more flamboyant overview of my career can be found here!
+A more flamboyant overview of my career can be found [here](https://www.futurefoodsystems.com.au/pat-spicer-complex-fluids-expert/)!
 
 
 ## Websites on soft matter and complex fluids
 
 * [Weitzlab](https://weitzlab.seas.harvard.edu/)
 
+
+** Contact: ptspicer at gmail dot com **
