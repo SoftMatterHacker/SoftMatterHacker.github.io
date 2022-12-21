@@ -19,7 +19,7 @@ The group is committed to diverse membership and perspectives to ensure continue
 | Maryam Hosseini    | Whipped dairy structure and rheology |
 | Roshanak Taheri | Extensional rheology of formulated complex fluids |
 | Jonathan Mantzouridis   | Biofluid rheology and testing by extensional rheology |
-| Lily Li   | Aerosols synthesis and delivery of intranasal pharmaceuticals |
+| Lily Li   | Stress and adhesion in nanocellulose films |
 
 | Past PhDs                         | Thesis                        |    Defense date |
 | ----------------------------| ------------------------------------------ | ------------------- |
