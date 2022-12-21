@@ -1,9 +1,9 @@
 ---
 layout: default
-title: SoftMatterHacker.com
+title: SoftMatterHacker.com - People
 ---
 
-## What we do - People
+## What we do - [People](people.md)
 
 * Focus on the understanding, design, and creation of soft materials and complex liquid microstructures in commercial products, biological tissues, and even soft robots.
 
