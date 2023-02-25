@@ -23,12 +23,12 @@ The group is committed to diverse membership and perspectives to ensure continue
 
 | Past PhDs                         | Thesis                        |    Defense date |
 | ----------------------------| ------------------------------------------ | ------------------- |
-| Prerna Dahiya           | [Arrested coalescence in food emulsions](https://nonequilibrium.com/img/pdfs/DahiyaPrernaThesis.pdf) | 2017  |
-| Goldina Kwandou   | [Characterization and control of biofilm and biofluid microstructure and rheology](https://nonequilibrium.com/img/pdfs/KwandouGoldinaThesis.pdf) | 2018 |
-| Haiqiao Wang   | [Cubosome and hexosome microparticles: Shape, rheology, and templating](https://nonequilibrium.com/img/pdfs/WangHaiqiaoThesis.pdf) | 2019 |
-| Jie Song   | [Suspension, yielding, microstructure and applications of bacterial cellulose dispersions](https://nonequilibrium.com/img/pdfs/SongJieThesis.pdf) | 2019 |
-| Haoda Zhao   | Anisotropic colloids via interfacial dewetting | 2020 |
-| Zhiwei Li   | Intraocular soft tissue separation by non-Newtonian fluids | 2020 |
+| Prerna Dahiya           | [Arrested coalescence in food emulsions](https://nonequilibrium.com/pdf/DahiyaPrernaThesis.pdf) | 2017  |
+| Goldina Kwandou   | [Characterization and control of biofilm and biofluid microstructure and rheology](https://nonequilibrium.com/pdf/KwandouGoldinaThesis.pdf) | 2018 |
+| Haiqiao Wang   | [Cubosome and hexosome microparticles: Shape, rheology, and templating](https://nonequilibrium.com/pdf/WangHaiqiaoThesis.pdf) | 2019 |
+| Jie Song   | [Suspension, yielding, microstructure and applications of bacterial cellulose dispersions](https://nonequilibrium.com/pdf/SongJieThesis.pdf) | 2019 |
+| Haoda Zhao   | [Anisotropic colloids via interfacial dewetting](https://nonequilibrium.com/pdf/ZhaoHaodaThesis.pdf)| 2020 |
+| Zhiwei Li   | [Intraocular soft tissue separation by non-Newtonian fluids](https://nonequilibrium.com/pdf/LiZhiweiThesis.pdf) | 2020 |
 | Maryam Hosseini    | Nanocellulose membranes, micromotors, and capsules | 2023 |
 
 | Past Postdocs                         | Project                        | 
