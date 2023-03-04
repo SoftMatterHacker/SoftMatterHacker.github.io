@@ -3,7 +3,7 @@ layout: default
 title: SoftMatterHacker.com - People
 ---
 
-[Home](index.md) - [Research](research.md) - [Publications](publications) - [Blog](blog.md) - [Talks](talks.md) - [About](whoweare.md)
+[Home](index.html) - [Research](research.html) - [Publications](publications.html) - [Blog](blog.md) - [Talks](talks.html) - [About](whoweare.html)
 
 
 ## Socials
