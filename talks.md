@@ -51,7 +51,7 @@ title: SoftMatterHacker.com - People
 - Jul 2018 From Development to Research to Development,  [ACS Colloids 2018 - Connecting the dots in industry](https://colloids2018.org/schedule/connecting-dots-industry/)
 - Jun 2018 Cubosomes and hexosomes, University of Delaware, Dept. Chemical Engineering 
 - Jun 2018 From Development to Research to Development: Formulated Products, ACS Colloids 
-- Apr 2018 Suspension, yielding, and two-fluid behavior in nanocellulose fiber suspensions, [KITP Program - Physics of Dense Suspensions](https://www.kitp.ucsb.edu/activities/suspensions18)  [slides and words](http://online.kitp.ucsb.edu/online/suspensions18/spicer/) 
+- Apr 2018 Suspension, yielding, and two-fluid behavior in nanocellulose fiber suspensions, [KITP Program - Physics of Dense Suspensions](https://www.kitp.ucsb.edu/activities/suspensions18), [slides and words](http://online.kitp.ucsb.edu/online/suspensions18/spicer/) 
 
 
 ### 2017 
