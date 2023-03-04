@@ -8,7 +8,7 @@ title: SoftMatterHacker.com - People
  [Twitter](http://twitter.com/SoftMatterHackr/) -  [Instagram](http://instagram.com/softmatterhacker/) -  [LinkedIn](http://www.linkedin.com/pub/pat-spicer/2/41a/8b3) -  [Google Scholar](http://scholar.google.com/citations?hl=en&user=PyAxphYAAAAJ&view_op=list_works&pagesize=100) -  [Scopus](http://www.scopus.com/authid/detail.url?origin=resultslist&authorId=56210450800) -  [Research Gate](http://www.researchgate.net/profile/Patrick_Spicer/) -  [UNSW](https://research.unsw.edu.au/people/associate-professor-patrick-spicer) - [YouTube](https://www.youtube.com/user/ptspicer) 
 
 
-## What we do - [People](people.md)
+### What we do - [People](people.md)
 
 * Focus on the understanding, design, and creation of soft materials and complex liquid microstructures in commercial products, biological tissues, and even soft robots.
 
@@ -23,7 +23,7 @@ title: SoftMatterHacker.com - People
 * Prospective PhD and honours students: check our research projects page to see where you might want to work.
 
 
-## Research areas - Project pages
+### Research areas - Project pages
 
 * Formulated product development and scale-up - Develop and evaluate innovative microstructured fluid products with biological and industrial relevance.
 
@@ -38,7 +38,7 @@ title: SoftMatterHacker.com - People
 * Cubosome and hexosome nanoparticles - Nanostructured liquid crystal particles with unique shape and biological function.
 
 
-## Recent articles - [All publications](publications.md)
+### Recent articles - [All publications](publications.md)
 
 1. Y Wang, Y., Kim, W., Naik, R., Spicer, P. T., Selomulya, C., Tuning the pea protein gel network to mimic the heterogenous microstructure of animal protein, Food Hydrocolloids, 108611 (2023). <a href=https://www.sciencedirect.com/science/article/pii/S0268005X23001571">pdf</a>
 
@@ -59,7 +59,7 @@ title: SoftMatterHacker.com - People
 1. Giso, M., Zhao, H., Spicer, P. T., & Atherton, T., A phase diagram of morphologies for anisotropic particles sculpted from emulsions. JCIS, 605, 138-145 (2022). pdf
 
 
-## Recent blog posts - All blog posts
+### Recent blog posts - All blog posts
 
 * 2017.03.11 ImageJ: Analyzing motion study
 
@@ -70,7 +70,7 @@ title: SoftMatterHacker.com - People
 * 2014.02.05 Who we are
 
 
-## Recent talks - All talks
+### Recent talks - All talks
 
 * Mar 2022 Arrested emulsion gels: Interpenetrating 3D colloid-droplet structures: ACS Spring 2022
 
@@ -89,7 +89,7 @@ title: SoftMatterHacker.com - People
 * Feb 2021 Emulsions under arrest: ACIS Keynote in Food Colloids
 
 
-## Teaching - UNSW Sydney courses
+### Teaching - UNSW Sydney courses
 
 * CEIC4007: Chemical Product Design Project Thesis A
 
@@ -98,7 +98,7 @@ title: SoftMatterHacker.com - People
 * CEIC6711: Complex Fluid Microstructure and Rheology
 
 
-## Biography
+### Biography
 
 Pat Spicer received a BS in Chemical Engineering from the University of Delaware in 1992. In 1997 he completed a PhD in Chemical Engineering with the Particle Technology Group at the University of Cincinnati. There his research focused on design and synthesis of colloidal and nanoparticle materials. After defending his thesis, he went to work for the Procter & Gamble Company, leading their Crystallization group in the Corporate Engineering Division and supporting the scale-up and manufacture of complex fluid products for all of P&G's product areas.
 
