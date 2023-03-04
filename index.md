@@ -119,9 +119,4 @@ After 15 years with P&G, Pat began work as an Associate Professor of Chemical En
 A more flamboyant overview of my career can be found [here](https://www.futurefoodsystems.com.au/pat-spicer-complex-fluids-expert/)!
 
 
-## Websites on soft matter and complex fluids
-
-* [Weitzlab](https://weitzlab.seas.harvard.edu/)
-
-
 **Contact: ptspicer at gmail dot com**
