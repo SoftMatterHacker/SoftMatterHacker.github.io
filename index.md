@@ -6,8 +6,6 @@ title: SoftMatterHacker.com - People
 [Home](index.html) - [Research](research.html) - [Publications](publications.html) - [Blog](blog.md) - [Talks](talks.html) - [About](whoweare.html)
 
 
-### Socials
-
  [Twitter](http://twitter.com/SoftMatterHackr/) -  [Instagram](http://instagram.com/softmatterhacker/) -  [LinkedIn](http://www.linkedin.com/pub/pat-spicer/2/41a/8b3) -  [Google Scholar](http://scholar.google.com/citations?hl=en&user=PyAxphYAAAAJ&view_op=list_works&pagesize=100) -  [Scopus](http://www.scopus.com/authid/detail.url?origin=resultslist&authorId=56210450800) -  [Research Gate](http://www.researchgate.net/profile/Patrick_Spicer/) -  [UNSW](https://research.unsw.edu.au/people/associate-professor-patrick-spicer) - [YouTube](https://www.youtube.com/user/ptspicer) 
 
 
