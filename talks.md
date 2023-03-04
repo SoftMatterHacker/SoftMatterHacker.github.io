@@ -22,7 +22,7 @@ title: SoftMatterHacker.com - People
 
 ### 2021 
 
-- Dec 2021 Designing complex fluid rheology - microstructure and measurements: [link](http://icor-isr.ir/)International Conference on Rheology 
+- Dec 2021 Designing complex fluid rheology - microstructure and measurements: [International Conference on Rheology ](http://icor-isr.ir/)
 - Nov 2021 Returning to Academia from Industry: UNSW Chemical Engineering Research Society 
 - Oct 2021 3D arrested emulsion microstructures: Dow Chemical Interfacial Seminar 
 - Apr 2021 Rheology primer: RMIT School of Physics 
@@ -43,7 +43,7 @@ title: SoftMatterHacker.com - People
 
 - Oct 2019 Cubosomes and hexosomes: University of South Australia Future Manuf. Inst. 
 - Nov 2019 Composite liquid products [slides and words](https://nonequilibrium.com/talk/2019-ECCP/2019ECCP.md), [Engineering Cosmetics and Consumer Products 2019](https://www.aiche.org/conferences/conference-on-engineering-cosmetics-and-consumer-products/2019) 
-- Nov 2019 Selective shape change response by smart droplets [link](https://nonequilibrium.com/talk/2019DDA/2019DDAElastocap.md)<b>slides and words</b>: [link](https://www.controlledreleasesociety.org/events/crs-austrialian-chapterdrug-delivery-australia-2019-conference)Drug Delivery Australia 2019
+- Nov 2019 Selective shape change response by smart droplets [slides and words](./talks/2019DDA/2019DDAElastocap.md) [Drug Delivery Australia 2019](https://www.controlledreleasesociety.org/events/crs-austrialian-chapterdrug-delivery-australia-2019-conference)
 
 
 ### 2018 
