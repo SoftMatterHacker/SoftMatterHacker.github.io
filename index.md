@@ -3,6 +3,21 @@ layout: default
 title: SoftMatterHacker.com - People
 ---
 
+[Home](index.md) - [Research](research.md) - [Publications](publications) - [Blog](blog.md) - [Talks](talks.md) - [About](whoweare.md)
+
+
+## Socials
+
+- [Twitter](http://twitter.com/SoftMatterHackr/)
+- [Instagram](http://instagram.com/softmatterhacker/) | 
+- [LinkedIn](http://www.linkedin.com/pub/pat-spicer/2/41a/8b3) |
+- [Google Scholar](http://scholar.google.com/citations?hl=en&user=PyAxphYAAAAJ&view_op=list_works&pagesize=100) |
+- [Scopus](http://www.scopus.com/authid/detail.url?origin=resultslist&authorId=56210450800) |
+- [Research Gate](http://www.researchgate.net/profile/Patrick_Spicer/) |
+- [UNSW](https://research.unsw.edu.au/people/associate-professor-patrick-spicer) |
+- [YouTube](https://www.youtube.com/user/ptspicer) 
+
+
 ## What we do - [People](people.md)
 
 * Focus on the understanding, design, and creation of soft materials and complex liquid microstructures in commercial products, biological tissues, and even soft robots.
@@ -33,7 +48,11 @@ title: SoftMatterHacker.com - People
 * Cubosome and hexosome nanoparticles - Nanostructured liquid crystal particles with unique shape and biological function.
 
 
-## Recent articles - All publications
+## Recent articles - [All publications](publications.md)
+
+1. Y Wang, Y., Kim, W., Naik, R., Spicer, P. T., Selomulya, C., Tuning the pea protein gel network to mimic the heterogenous microstructure of animal protein, Food Hydrocolloids, 108611 (2023). <a href=https://www.sciencedirect.com/science/article/pii/S0268005X23001571">pdf</a>
+
+2. Lovegrove, J., Raveendran, R., Spicer, P. T., Förster, S., Garvey, C., Stenzel, M., Margination of 2D Platelet microparticles in blood, ACS Macro Letters (2023). <a href=https://pubs.acs.org/doi/10.1021/acsmacrolett.2c00718">pdf</a>
 
 1. Hosseini, M., Babayekhorasani, F., Guo, Z., Liang, K., Chen, V., Spicer, P. T., Propulsion, deformation, and confinement response of hollow nanocellulose millimotors, J. Coll. Int. Sci., 628, 435-445, (2022). [pdf](https://nonequilibrium.com/.../pdf/Maryam%20Millimotors%20JCIS.pdf) or [preprint](http://arxiv.org/abs/2206.03232)
 
