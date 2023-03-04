@@ -42,8 +42,8 @@ title: SoftMatterHacker.com - People
 ### 2019 
 
 - Oct 2019 Cubosomes and hexosomes: University of South Australia Future Manuf. Inst. 
-- Nov 2019 Composite liquid products [slides and words](https://nonequilibrium.com/talk/2019-ECCP/2019ECCP.md), [Engineering Cosmetics and Consumer Products 2019](https://www.aiche.org/conferences/conference-on-engineering-cosmetics-and-consumer-products/2019) 
-- Nov 2019 Selective shape change response by smart droplets [slides and words](./talks/2019DDA/2019DDAElastocap.md) [Drug Delivery Australia 2019](https://www.controlledreleasesociety.org/events/crs-austrialian-chapterdrug-delivery-australia-2019-conference)
+- Nov 2019 Composite liquid products, [Engineering Cosmetics and Consumer Products 2019](https://www.aiche.org/conferences/conference-on-engineering-cosmetics-and-consumer-products/2019), [slides and words](https://nonequilibrium.com/talk/2019-ECCP/2019ECCP.md) 
+- Nov 2019 Selective shape change response by smart droplets, [Drug Delivery Australia 2019](https://www.controlledreleasesociety.org/events/crs-austrialian-chapterdrug-delivery-australia-2019-conference), [slides and words](./talks/2019DDA/2019DDAElastocap.md)
 
 
 ### 2018 
