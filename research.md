@@ -19,9 +19,6 @@ title: SoftMatterHacker.com - People
 | :---:   | :---: | :---: | :---:   | :---: | :---: | :---: |
 
 
-
-|  |   |   |
-| :---:   | :---: | :---: |
 | ![Image](/projects/asthma.png)| ![Image](/projects/biofilms.png) | ![Image](/projects/comets.png) |
 | ![Image](/projects/cubosomes.png) | ![Image](/projects/dissolution.png) | ![Image](/projects/emulsionarrest.png) |
 | ![Image](/projects/extension.png) | ![Image](/projects/endoskeleton.png) | ![Image](/projects/jellyfish.png) |
