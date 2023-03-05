@@ -51,7 +51,7 @@ title: SoftMatterHacker.com - People
 - Muin, R., Spicer, P., Tang, K., Niu, Y., Hosseini, M., Mostaghimi, P., & Armstrong, R. T., Dynamic X-ray tomography of microfibrous cellulose liquid foams using deep learning. Chem. Eng. Sci., 248, 117173 (2022). [pdf](https://nonequilibrium.com/pdf/PreProofRubaiyaFoam_e2107003118.pdf)
 
 
-### Recent blog posts - [All blog posts](./blog/posts.md)
+### Recent blog posts - [All blog posts](posts.md)
 
 * 2017.03.11 ImageJ: Analyzing motion study
 
@@ -62,23 +62,11 @@ title: SoftMatterHacker.com - People
 * 2014.02.05 Who we are
 
 
-### Recent talks - All talks
+### Recent talks - [All talks](talks.md)
 
-* Mar 2022 Arrested emulsion gels: Interpenetrating 3D colloid-droplet structures: ACS Spring 2022
-
-* Dec 2021 Designing complex fluid rheology - microstructure and measurements: International Conference on Rheology
-
-* Nov 2021 Returning to Academia from Industry: UNSW Chemical Engineering Research Society
-
-* Oct 2021 3D arrested emulsion microstructures: Dow Chemical Interfacial Seminar
-
-* Apr 2021 Rheology primer: RMIT School of Physics
-
-* Mar 2021 The safest (colloidal) jellyfish in Australia!: CCNY Dept. Chemical Engineering
-
-* Feb 2021 Rheology and job security: Australian Synchrotron Users Mtg.
-
-* Feb 2021 Emulsions under arrest: ACIS Keynote in Food Colloids
+- Feb 2023 Curiosity, disruption, and applications, [Australasian Colloid and Interfacial Science Symposium](https://acis.wildapricot.org/ACSSSC34)
+- Jan 2023 Arrested emulsion structure, rheology, and flow at multiple length scales, [Journal Non-Newtonian Fluid Mechanics Seminar Series](https://pcwww.liv.ac.uk/~robpoole/jnnfm/jnnfm_seminar.htm)
+- Jan 2023 Multiple Length Scale Flow and Mechanics of Complex Bacterial Nanocellulose Structures, [Okinawa Institute of Science and Technology. Workshop on Microrheology and Microfluidics](https://groups.oist.jp/rtmm)
 
 
 ### Teaching - UNSW Sydney courses
