@@ -13,7 +13,7 @@ title: SoftMatterHacker.com - People
 
 ### 2022 
 
-- Dec 2022 Product Design - Capstone design project for new products: IChemE Education Special Interest Group Annual Meeting.
+- Dec 2022 Product Design - Capstone design project for new products, IChemE Education Special Interest Group Annual Meeting.
 - Nov 2022 Bacterial nanocellulose production and post-processing, University of Delaware Chemical Engineering Seminar Series
 - Nov 2022 Tracking bacterial nanocellulose structures and hierarchy, Lehigh University Chemical Engineering Seminar Series
 - Sep 2022 Chemical Product Design Project at UNSW, CHEMECA Chemical Engineering Design project Workshop, [slides and words](./talks/2022CHEMECA/2022CHEMECA-DesProjWkshp.md) 
