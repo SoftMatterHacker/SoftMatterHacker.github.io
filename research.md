@@ -26,6 +26,6 @@ title: SoftMatterHacker.com - People
 | ![Image](/projects/microrheo.png) | ![Image](/projects/paperbots.png) | ![Image](/projects/plantplasters.png) |
 | ![Image](/projects/product.png) | ![Image](/projects/rheoscatter.png) | ![Image](/projects/shapemem.png) |
 | ![Image](/projects/silkcellulose.png) | ![Image](/projects/smartdrops.png) | ![Image](/projects/smartdrops.png) |
-
+| :---:   | :---: | :---: |
 
 **Contact: ptspicer at gmail dot com**
