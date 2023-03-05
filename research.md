@@ -11,7 +11,7 @@ title: SoftMatterHacker.com - People
  [Scopus](http://www.scopus.com/authid/detail.url?origin=resultslist&authorId=56210450800) -  [Research Gate](http://www.researchgate.net/profile/Patrick_Spicer/) - [YouTube](https://www.youtube.com/user/ptspicer)
 
 
-![[asthma.png]]
+![[/projects/asthma.png]]
 
 ![[biofilms.png]]
 
