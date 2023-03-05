@@ -60,102 +60,102 @@ title: SoftMatterHacker.com - People
 
 ### 2016
 
-- Dahiya, P., Caggioni, M. and Spicer, P. T., "Arrested coalescence of viscoelastic droplets: polydisperse doublets," Phil. Trans. R. Soc. A 374, 20150132 (2016). [pdf](https://nonequilibrium.com/pdf/Dahiya2016PolydisPhilTransRoyalSocA.pdf)
+- Dahiya, P., Caggioni, M. and Spicer, P. T., Arrested coalescence of viscoelastic droplets: polydisperse doublets, Phil. Trans. R. Soc. A 374, 20150132 (2016). [pdf](https://nonequilibrium.com/pdf/Dahiya2016PolydisPhilTransRoyalSocA.pdf)
 - Ghadiri, M. et al. Effect of polyunsaturated fatty acids (PUFAs) on airway epithelial cells tight junction. Pulm. Pharmacol. Ther. 40, 30-38 (2016). [pdf](https://nonequilibrium.com/pdf/Ghadiri2016PulmonaryPharma.pdf)
 
 ### 2015
 
-- Caggioni, M., Lenis, J., Bayles, A. V., Furst, E. M. and Spicer, P. T., "Temperature-induced collapse, and arrested collapse, of anisotropic endoskeleton droplets," Langmuir 31, 8558-8565 (2015). [pdf](https://nonequilibrium.com/pdf/Caggioni2015Langmuir.pdf)
-- Burke, C. J., Mbanga, B. L., Wei, Z., Spicer, P. T. and Atherton, T. J., "The role of curvature anisotropy in the ordering of spheres on an ellipsoid," Soft Matter 11, 5872-5882 (2015). [pdf](https://nonequilibrium.com/pdf/Burke2015SoftMatter.pdf)
-Ergun, R., Hartel, R. W. and Spicer, P. T., "Kinetic effects on interfacial partitioning of fat crystals," Food Structure 5, 1-9 (2015). [pdf](https://nonequilibrium.com/pdf/Ergun2015FoodStructure.pdf)
-- Spicer, P. T. and Gilchrist, J. F., "Microstructure, Rheology, and Processing of Complex Fluids," in Advances in Industrial Mixing: A Companion to the Handbook of Industrial Mixing, 2015. [pdf](https://nonequilibrium.com/pdf/Spicer2015NAMFMixingRheologyChap.pdf)
-- Dong, S., Spicer, P. T., Lucien, F. P. and Zetterlund, P. B., "Synthesis of crosslinked polymeric nanocapsules using catanionic vesicle templates stabilized by compressed CO2," Soft Matter 11, 8613-8620 (2015). [pdf](https://nonequilibrium.com/pdf/Dong2015SoftMatter.pdf)
-- Tangso, K. J., Patel, H. Lindberg, S. Hartley, P. G., Knott, R. Spicer, P. T., and Boyd, B. J., "Controlling the Mesostructure Formation within the Shell of Novel Cubic/Hexagonal Phase Cetyltrimethylammonium Bromide-Poly(acrylamide-acrylic acid) Capsules for pH Stimulated Release." ACS Applied Materials & Interfaces 7, 24501-24509 (2015). [pdf](https://nonequilibrium.com/pdf/Tangso2015ACS_AMI.pdf)
+- Caggioni, M., Lenis, J., Bayles, A. V., Furst, E. M. and Spicer, P. T., Temperature-induced collapse, and arrested collapse, of anisotropic endoskeleton droplets, Langmuir 31, 8558-8565 (2015). [pdf](https://nonequilibrium.com/pdf/Caggioni2015Langmuir.pdf)
+- Burke, C. J., Mbanga, B. L., Wei, Z., Spicer, P. T. and Atherton, T. J., The role of curvature anisotropy in the ordering of spheres on an ellipsoid, Soft Matter 11, 5872-5882 (2015). [pdf](https://nonequilibrium.com/pdf/Burke2015SoftMatter.pdf)
+- Ergun, R., Hartel, R. W. and Spicer, P. T., Kinetic effects on interfacial partitioning of fat crystals, Food Structure 5, 1-9 (2015). [pdf](https://nonequilibrium.com/pdf/Ergun2015FoodStructure.pdf)
+- Spicer, P. T. and Gilchrist, J. F., Microstructure, Rheology, and Processing of Complex Fluids, in Advances in Industrial Mixing: A Companion to the Handbook of Industrial Mixing, 2015. [pdf](https://nonequilibrium.com/pdf/Spicer2015NAMFMixingRheologyChap.pdf)
+- Dong, S., Spicer, P. T., Lucien, F. P. and Zetterlund, P. B., Synthesis of crosslinked polymeric nanocapsules using catanionic vesicle templates stabilized by compressed CO2, Soft Matter 11, 8613-8620 (2015). [pdf](https://nonequilibrium.com/pdf/Dong2015SoftMatter.pdf)
+- Tangso, K. J., Patel, H. Lindberg, S. Hartley, P. G., Knott, R. Spicer, P. T., and Boyd, B. J., Controlling the Mesostructure Formation within the Shell of Novel Cubic/Hexagonal Phase Cetyltrimethylammonium Bromide-Poly(acrylamide-acrylic acid) Capsules for pH Stimulated Release. ACS Applied Materials & Interfaces 7, 24501-24509 (2015). [pdf](https://nonequilibrium.com/pdf/Tangso2015ACS_AMI.pdf)
 
 ### 2014
 
-- Caggioni, M., Bayles, A., Lenis, J., Furst, E., and Spicer, P., "Interfacial Stability and Shape Change of Anisotropic Endoskeleton Droplets," Soft Matter 10, 38, 7647-7652 (2014). [pdf](https://nonequilibrium.com/pdf/Caggioni2014SoftMatter.pdf)
-- Tangso, K., Lindberg, S., Hartley, P., Knott, R., Spicer, P., and Boyd, B., "Formation of liquid crystalline structures in the bile salt-chitosan system and triggered release from lamellar phase bile salt-chitosan capsules," ACS Appl. Matls. & Interfaces 6, 15, 12363-12371 (2014). [pdf](https://nonequilibrium.com/pdf/Tangso2014ACS_AMI.pdf)
+- Caggioni, M., Bayles, A., Lenis, J., Furst, E., and Spicer, P., Interfacial Stability and Shape Change of Anisotropic Endoskeleton Droplets, Soft Matter 10, 38, 7647-7652 (2014). [pdf](https://nonequilibrium.com/pdf/Caggioni2014SoftMatter.pdf)
+- Tangso, K., Lindberg, S., Hartley, P., Knott, R., Spicer, P., and Boyd, B., Formation of liquid crystalline structures in the bile salt-chitosan system and triggered release from lamellar phase bile salt-chitosan capsules, ACS Appl. Matls. & Interfaces 6, 15, 12363-12371 (2014). [pdf](https://nonequilibrium.com/pdf/Tangso2014ACS_AMI.pdf)
 
 ### 2013
 
-- Emady, H. N., Caggioni, M., and Spicer, P., "Colloidal microstructure effects on particle sedimentation in yield stress fluids," J. Rheology, 57, 1761 (2013). [pdf](https://nonequilibrium.com/pdf/Emady2013YieldStressSedJoR.pdf)
+- Emady, H. N., Caggioni, M., and Spicer, P., Colloidal microstructure effects on particle sedimentation in yield stress fluids, J. Rheology, 57, 1761 (2013). [pdf](https://nonequilibrium.com/pdf/Emady2013YieldStressSedJoR.pdf)
 
 ### 2012
 
-- Pawar, A., Caggioni, M., Hartel, R., and Spicer, P., "Arrested coalescence of viscoelastic droplets with internal microstructure," Faraday Discussions, 158, 341-350 (2012). [pdf](https://nonequilibrium.com/pdf/Pawar3D_Arrested_Coalescence.pdf)
-- Porter, D., Savage, J. R., Cohen, I., Spicer, P., and Caggioni, M., "Temperature dependence of droplet breakup in 8CB and 5CB liquid crystals," Physical Review E, 85, 041701 (2012). [pdf](https://nonequilibrium.com/pdf/SavageTempDependDropBreakup.pdf)
+- Pawar, A., Caggioni, M., Hartel, R., and Spicer, P., Arrested coalescence of viscoelastic droplets with internal microstructure, Faraday Discussions, 158, 341-350 (2012). [pdf](https://nonequilibrium.com/pdf/Pawar3D_Arrested_Coalescence.pdf)
+- Porter, D., Savage, J. R., Cohen, I., Spicer, P., and Caggioni, M., Temperature dependence of droplet breakup in 8CB and 5CB liquid crystals, Physical Review E, 85, 041701 (2012). [pdf](https://nonequilibrium.com/pdf/SavageTempDependDropBreakup.pdf)
 
 ### 2011
 
-- Pawar, A., Caggioni, M., Ergun, R., Hartel, R., Spicer, P., "Arrested Coalescence in Pickering Emulsions," Soft Matter, 7, 7710-7716 (2011). [pdf](https://nonequilibrium.com/pdf/Pawar_2D_Arrested_Coalescence.pdf)
+- Pawar, A., Caggioni, M., Ergun, R., Hartel, R., Spicer, P., Arrested Coalescence in Pickering Emulsions, Soft Matter, 7, 7710-7716 (2011). [pdf](https://nonequilibrium.com/pdf/Pawar_2D_Arrested_Coalescence.pdf)
 
 ### 2010
 
-- Solomon, M. and Spicer, P., "Microstructural Regimes of Colloidal Rod Suspensions, Gels, and Glasses," Soft Matter, 6, 1391-1400 (2010) [pdf](https://nonequilibrium.com/pdf/SolomonSpicerRodMicrostructureReview.pdf) [Figure 1](https://nonequilibrium.com/pdf/SolomonSpicerFig1.jpg) [Figure 4](https://nonequilibrium.com/pdf/SolomonSpicerFig4.jpg)
-- Savage, J., Caggioni, M., Spicer, P., Cohen, I., "Partial Universality: Pinch-Off Dynamics in Fluids with Smectic Liquid Crystalline Order.," Soft Matter, 6, 892-895 (2010). [pdf](https://nonequilibrium.com/pdf/SavageLiquidCrystalDropBreakupSoftMatter.pdf)
+- Solomon, M. and Spicer, P., Microstructural Regimes of Colloidal Rod Suspensions, Gels, and Glasses, Soft Matter, 6, 1391-1400 (2010) [pdf](https://nonequilibrium.com/pdf/SolomonSpicerRodMicrostructureReview.pdf) [Figure 1](https://nonequilibrium.com/pdf/SolomonSpicerFig1.jpg) [Figure 4](https://nonequilibrium.com/pdf/SolomonSpicerFig4.jpg)
+- Savage, J., Caggioni, M., Spicer, P., Cohen, I., Partial Universality: Pinch-Off Dynamics in Fluids with Smectic Liquid Crystalline Order., Soft Matter, 6, 892-895 (2010). [pdf](https://nonequilibrium.com/pdf/SavageLiquidCrystalDropBreakupSoftMatter.pdf)
 
 ### 2009
 
-- Wilkins, G., Spicer, P., Solomon, M., "Colloidal System to Explore Structural and Dynamical Transitions in Rod Networks, Gels, and Glasses," Langmuir, 25, 8951Â–59 (2009). [pdf](https://nonequilibrium.com/pdf/Wilkins_Spicer_Solomon_PolyamideRods.pdf)
+- Wilkins, G., Spicer, P., Solomon, M., Colloidal System to Explore Structural and Dynamical Transitions in Rod Networks, Gels, and Glasses, Langmuir, 25, 8951Â–59 (2009). [pdf](https://nonequilibrium.com/pdf/Wilkins_Spicer_Solomon_PolyamideRods.pdf)
 
 ### 2008
 
-- Savin, T., Spicer, P., Doyle, P. S., "A Rational Approach to Noise Discrimination in Video Microscopy Particle Tracking," Appl. Phys. Lett., 93, 024102 (2008). [pdf](https://nonequilibrium.com/pdf/APL_NoiseDiscriminationMicrorheology.pdf)
+- Savin, T., Spicer, P., Doyle, P. S., A Rational Approach to Noise Discrimination in Video Microscopy Particle Tracking, Appl. Phys. Lett., 93, 024102 (2008). [pdf](https://nonequilibrium.com/pdf/APL_NoiseDiscriminationMicrorheology.pdf)
 
 ### 2007
 
-- Shen, A. Q., Wang, D., Spicer, P., "Kinetics of Colloidal Templating Using Emulsion Drop Consolidation," Langmuir, 23, 12821-26 (2007). [pdf](https://nonequilibrium.com/pdf/DropletConsolidation.pdf)
-- Tangso, K. J., Patel, H. Lindberg, S. Hartley, P. G., Knott, R. Spicer, P. T., and Boyd, B. J., "Controlling the Mesostructure Formation within the Shell of Novel Cubic/Hexagonal Phase Cetyltrimethylammonium Bromide-Poly(acrylamide-acrylic acid) Capsules for pH Stimulated Release." ACS Applied Materials & Interfaces 7, 24501-24509 (2015). [pdf](https://nonequilibrium.com/pdf/Tangso2015ACS_AMI.pdf)
-- Caggioni, M., Spicer, P., Blair, D., Lindberg, S., Weitz, D., "Rheology and Microrheology of a Microstructured Fluid: The Gellan Gum Case," J. Rheology, 55, 851-65 (2007). [pdf](https://nonequilibrium.com/pdf/JoR_Gellan_Caggioni.pdf)
+- Shen, A. Q., Wang, D., Spicer, P., Kinetics of Colloidal Templating Using Emulsion Drop Consolidation, Langmuir, 23, 12821-26 (2007). [pdf](https://nonequilibrium.com/pdf/DropletConsolidation.pdf)
+- Tangso, K. J., Patel, H. Lindberg, S. Hartley, P. G., Knott, R. Spicer, P. T., and Boyd, B. J., Controlling the Mesostructure Formation within the Shell of Novel Cubic/Hexagonal Phase Cetyltrimethylammonium Bromide-Poly(acrylamide-acrylic acid) Capsules for pH Stimulated Release. ACS Applied Materials & Interfaces 7, 24501-24509 (2015). [pdf](https://nonequilibrium.com/pdf/Tangso2015ACS_AMI.pdf)
+- Caggioni, M., Spicer, P., Blair, D., Lindberg, S., Weitz, D., Rheology and Microrheology of a Microstructured Fluid: The Gellan Gum Case, J. Rheology, 55, 851-65 (2007). [pdf](https://nonequilibrium.com/pdf/JoR_Gellan_Caggioni.pdf)
 
 ### 2006
 
-- Steinhaus, B., Spicer, P., Shen, A., "Droplet Size Effects on Film Drainage between Droplet and Substrate," Langmuir, 22, 5308-13 (2006). [pdf](https://nonequilibrium.com/pdf/ShenMicrofluidicDeposition.pdf)
+- Steinhaus, B., Spicer, P., Shen, A., Droplet Size Effects on Film Drainage between Droplet and Substrate, Langmuir, 22, 5308-13 (2006). [pdf](https://nonequilibrium.com/pdf/ShenMicrofluidicDeposition.pdf)
 
 ### 2005
 
-- Spicer, P., Hartel, R., "Crystal Comets: Dewetting During Emulsion Droplet Crystallization," Aust. J. Chem., 58, 655-59 (2005). [pdf](https://nonequilibrium.com/pdf/CrystalCometsAusJChem.pdf)
-- Spicer, P., "Cubosome Processing: Industrial Nanoparticle Technology Development," Chem. Eng. Res. Des., 83, 1283-86 (2005). [pdf](https://nonequilibrium.com/pdf/SpicerChERDCubosome.pdf)
-- Spicer, P., "Progress in Liquid Crystalline Dispersions: Cubosomes," Curr. Opin. Colloid Int. Sci., 10, 274-79 (2005). [pdf](https://nonequilibrium.com/pdf/COCIS_Cubosomes_2005.pdf)
+- Spicer, P., Hartel, R., Crystal Comets: Dewetting During Emulsion Droplet Crystallization, Aust. J. Chem., 58, 655-59 (2005). [pdf](https://nonequilibrium.com/pdf/CrystalCometsAusJChem.pdf)
+- Spicer, P., Cubosome Processing: Industrial Nanoparticle Technology Development, Chem. Eng. Res. Des., 83, 1283-86 (2005). [pdf](https://nonequilibrium.com/pdf/SpicerChERDCubosome.pdf)
+- Spicer, P., Progress in Liquid Crystalline Dispersions: Cubosomes, Curr. Opin. Colloid Int. Sci., 10, 274-79 (2005). [pdf](https://nonequilibrium.com/pdf/COCIS_Cubosomes_2005.pdf)
 
 ### 2003
 
-- Spicer, P., "Cubosomes: Bicontinuous Cubic Liquid Crystalline Nanostructured Particles," in J.A. Schwarz, C. Contescu, K. Putyera (Eds.), Marcel Dekker Encyclopedia of Nanoscience and Nanotechnology Marcel Dekker, New York, 2003, p. 881-92. [pdf](https://nonequilibrium.com/pdf/SpicerENN.pdf)
-- Spicer, P., Lynch, M., Visscher, M., Hoath, S., "Bicontinuous Cubic Liquid Crystalline Phase and Cubosome Personal Care Delivery Systems," in M. Rosen (Ed.), Personal Care Delivery Systems and Formulations. Noyes Publishing, 2003. [pdf](https://nonequilibrium.com/pdf/CubicLiquidCrystallineRosen.pdf)
-- Spicer, P., "Cubosome Formation via Dilution - Kinetic Effects and Consumer Product Implications," in F. Case, P. Alexandridis (Eds.), Mesoscale Phenomena in Liquid Systems. ACS, 2003, p. 346-59. [pdf](https://nonequilibrium.com/pdf/SpicerCubosomesACS.pdf)
-- Lynch, M., Ofori-Boateng, A., Hippe, A., Kochvar, K., Spicer, P., "Enhanced Loading of Water-Soluble Actives into Bicontinuous Cubic Phase Liquid Crystals Using Cationic Surfactants," J. Colloid Interface Sci., 260, 40413 (2003). [pdf](https://nonequilibrium.com/pdf/FunctionalizedCubicPhase_JCIS.pdf)
+- Spicer, P., Cubosomes: Bicontinuous Cubic Liquid Crystalline Nanostructured Particles, in J.A. Schwarz, C. Contescu, K. Putyera (Eds.), Marcel Dekker Encyclopedia of Nanoscience and Nanotechnology Marcel Dekker, New York, 2003, p. 881-92. [pdf](https://nonequilibrium.com/pdf/SpicerENN.pdf)
+- Spicer, P., Lynch, M., Visscher, M., Hoath, S., Bicontinuous Cubic Liquid Crystalline Phase and Cubosome Personal Care Delivery Systems, in M. Rosen (Ed.), Personal Care Delivery Systems and Formulations. Noyes Publishing, 2003. [pdf](https://nonequilibrium.com/pdf/CubicLiquidCrystallineRosen.pdf)
+- Spicer, P., Cubosome Formation via Dilution - Kinetic Effects and Consumer Product Implications, in F. Case, P. Alexandridis (Eds.), Mesoscale Phenomena in Liquid Systems. ACS, 2003, p. 346-59. [pdf](https://nonequilibrium.com/pdf/SpicerCubosomesACS.pdf)
+- Lynch, M., Ofori-Boateng, A., Hippe, A., Kochvar, K., Spicer, P., Enhanced Loading of Water-Soluble Actives into Bicontinuous Cubic Phase Liquid Crystals Using Cationic Surfactants, J. Colloid Interface Sci., 260, 40413 (2003). [pdf](https://nonequilibrium.com/pdf/FunctionalizedCubicPhase_JCIS.pdf)
 
 ### 2002
 
-- Spicer, P., Small, W. B., Lynch, M. L., Burns, J. L., "Dry Powder Precursors of 'Soft' Cubic Liquid Crystalline Nanoparticles (Cubosomes)," J. Nanopart. Res., 4, 297-311 (2002). [pdf](https://nonequilibrium.com/pdf/PowderedCubosomePrecursors.pdf)
-- Spicer, P., Chaoul, O., Tsantilis, S., Pratsinis, S. E., "Titania Formation by TiCl4 Gas Phase Oxidation, Surface Growth and Coagulation," J. Aerosol Sci., 33, 17-34 (2002). [pdf](https://nonequilibrium.com/pdf/MovingSectional.pdf)
+- Spicer, P., Small, W. B., Lynch, M. L., Burns, J. L., Dry Powder Precursors of 'Soft' Cubic Liquid Crystalline Nanoparticles (Cubosomes), J. Nanopart. Res., 4, 297-311 (2002). [pdf](https://nonequilibrium.com/pdf/PowderedCubosomePrecursors.pdf)
+- Spicer, P., Chaoul, O., Tsantilis, S., Pratsinis, S. E., Titania Formation by TiCl4 Gas Phase Oxidation, Surface Growth and Coagulation, J. Aerosol Sci., 33, 17-34 (2002). [pdf](https://nonequilibrium.com/pdf/MovingSectional.pdf)
 
 ### 2001
 
-- Spicer, P., Hayden, K., Lynch, M., Ofori-Boateng, A., Burns, J., "Novel Process for Producing Cubic Liquid Crystalline Nanoparticles (Cubosomes)," Langmuir, 17, 5748-56 (2001). [pdf](https://nonequilibrium.com/pdf/CubosomeDilutionProcess.pdf)
+- Spicer, P., Hayden, K., Lynch, M., Ofori-Boateng, A., Burns, J., Novel Process for Producing Cubic Liquid Crystalline Nanoparticles (Cubosomes), Langmuir, 17, 5748-56 (2001). [pdf](https://nonequilibrium.com/pdf/CubosomeDilutionProcess.pdf)
 
 ### 1999
 
-- Flesch, J. C., Spicer, P., Pratsinis, S. E., "Laminar and Turbulent Shear-Induced Flocculation of Fractal Aggregates," AIChE J., 45, 1114-24 (1999). [pdf](https://nonequilibrium.com/pdf/FractalPB.pdf)
-- Spicer, P., Pratsinis, S., Willemse, A., Merkus, H., Scarlett, B., "Monitoring the Dynamics of Concentrated Suspensions by Enhanced Backward Light Scattering," Part. Part. Syst. Charact., 16, 201-06 (1999). [pdf](https://nonequilibrium.com/pdf/EBS.pdf)
+- Flesch, J. C., Spicer, P., Pratsinis, S. E., Laminar and Turbulent Shear-Induced Flocculation of Fractal Aggregates, AIChE J., 45, 1114-24 (1999). [pdf](https://nonequilibrium.com/pdf/FractalPB.pdf)
+- Spicer, P., Pratsinis, S., Willemse, A., Merkus, H., Scarlett, B., Monitoring the Dynamics of Concentrated Suspensions by Enhanced Backward Light Scattering, Part. Part. Syst. Charact., 16, 201-06 (1999). [pdf](https://nonequilibrium.com/pdf/EBS.pdf)
 
 ### 1998
 
-- Spicer, P., Artelt, C., Sanders, S., Pratsinis, S., "Flame Synthesis of Composite Carbon Black-Fumed Silica Nanostructured Particles," J. Aerosol Sci., 29, 647-59 (1998). [pdf](https://nonequilibrium.com/pdf/SootSilica.pdf)
-- Pratsinis, S., Spicer, P., "Competition between Gas Phase and Surface Oxidation of TiCl4 During Synthesis of Tio2 Particles," Chem. Eng. Sci., 53, 1861-68 (1998). [pdf](https://nonequilibrium.com/pdf/MonodisperseSurface.pdf)
+- Spicer, P., Artelt, C., Sanders, S., Pratsinis, S., Flame Synthesis of Composite Carbon Black-Fumed Silica Nanostructured Particles, J. Aerosol Sci., 29, 647-59 (1998). [pdf](https://nonequilibrium.com/pdf/SootSilica.pdf)
+- Pratsinis, S., Spicer, P., Competition between Gas Phase and Surface Oxidation of TiCl4 During Synthesis of Tio2 Particles, Chem. Eng. Sci., 53, 1861-68 (1998). [pdf](https://nonequilibrium.com/pdf/MonodisperseSurface.pdf)
 
 ### 1997
 
-- Spicer, P., Pratsinis, S. E., Raper, J., Amal, R., Bushell, G., Meesters, G., "Effect of Shear Schedule on Particle Size, Density, and Structure During Flocculation in Stirred Tanks," Powder Tech., 97, 26-34 (1998). [pdf](https://nonequilibrium.com/pdf/Irreversibility.pdf)
+- Spicer, P., Pratsinis, S. E., Raper, J., Amal, R., Bushell, G., Meesters, G., Effect of Shear Schedule on Particle Size, Density, and Structure During Flocculation in Stirred Tanks, Powder Tech., 97, 26-34 (1998). [pdf](https://nonequilibrium.com/pdf/Irreversibility.pdf)
 - Spicer, P. T., Shear-Induced Aggregation-Fragmentation: Mixing and Aggregate Morphology Effects, Ph.D. Thesis (1997). [pdf](https://nonequilibrium.com/pdf/PatrickSpicerPhD1997.pdf)
 
 ### 1996
 
-- Spicer, P., Keller, W., Pratsinis, S., "The Effect of Impeller Type on Floc Size and Structure During Shear-Induced Flocculation," J. Colloid Interface Sci., 184, 112-22 (1996). [pdf](https://nonequilibrium.com/pdf/ImpellerDpf.pdf)
-- Spicer, P., Pratsinis, S., Trennepohl, M., Meesters, G., "Coagulation and Fragmentation: The Variation of Shear Rate and the Time Lag for Attainment of Steady State," Ind. Eng. Chem. Res., 35, 3074-80 (1996). [pdf](https://nonequilibrium.com/pdf/TimeLag.pdf)
-- Spicer, P., Pratsinis, S., "Coagulation and Fragmentation: Universal Steady-State Particle-Size Distribution," AIChE J., 42, 1612-20 (1996). [pdf](https://nonequilibrium.com/pdf/SpicerPratsinisAIChEJ_1996.pdf)
-- Spicer, P., Pratsinis, S., "Shear-Induced Flocculation: The Evolution of Floc Structure and the Shape of the Size Distribution at Steady State," Water Res., 30, 1049-56 (1996). [pdf](https://nonequilibrium.com/pdf/WaterResearch.pdf)
+- Spicer, P., Keller, W., Pratsinis, S., The Effect of Impeller Type on Floc Size and Structure During Shear-Induced Flocculation, J. Colloid Interface Sci., 184, 112-22 (1996). [pdf](https://nonequilibrium.com/pdf/ImpellerDpf.pdf)
+- Spicer, P., Pratsinis, S., Trennepohl, M., Meesters, G., Coagulation and Fragmentation: The Variation of Shear Rate and the Time Lag for Attainment of Steady State, Ind. Eng. Chem. Res., 35, 3074-80 (1996). [pdf](https://nonequilibrium.com/pdf/TimeLag.pdf)
+- Spicer, P., Pratsinis, S., Coagulation and Fragmentation: Universal Steady-State Particle-Size Distribution, AIChE J., 42, 1612-20 (1996). [pdf](https://nonequilibrium.com/pdf/SpicerPratsinisAIChEJ_1996.pdf)
+- Spicer, P., Pratsinis, S., Shear-Induced Flocculation: The Evolution of Floc Structure and the Shape of the Size Distribution at Steady State, Water Res., 30, 1049-56 (1996). [pdf](https://nonequilibrium.com/pdf/WaterResearch.pdf)
 
 ### Patents
 - Spicer P; Caggioni M; Bayles AV; Lenis-Abrili J, Non-spherical droplet, USA, 9,597,648, 2017 [pdf](https://patents.google.com/patent/US9597648B2/en)
