@@ -11,46 +11,46 @@ title: SoftMatterHacker.com - People
  [Scopus](http://www.scopus.com/authid/detail.url?origin=resultslist&authorId=56210450800) -  [Research Gate](http://www.researchgate.net/profile/Patrick_Spicer/) - [YouTube](https://www.youtube.com/user/ptspicer)
 
 
-![[/projects/asthma.png]]
+![Image](/projects/asthma.png)
 
-![[biofilms.png]]
+![Image](/projects/biofilms.png)
 
-![[comets.png]]
+![Image](/projects/comets.png)
 
-![[cubosomes.png]]
+![Image](/projects/cubosomes.png)
 
-![[dissolution.png]]
+![Image](/projects/dissolution.png)
 
-![[emulsionarrest.png]]
+![Image](/projects/emulsionarrest.png)
 
-![[endoskeleton.png]]
+![Image](/projects/endoskeleton.png)
 
-![[extension.png]]
+![Image](/projects/extension.png)
 
-![[jellyfish.png]]
+![Image](/projects/jellyfish.png)
 
-![[leafsprays.png]]
+![Image](/projects/leafsprays.png)
 
-![[meat.png]]
+![Image](/projects/meat.png)
 
-![[microfluidics.png]]
+![Image](/projects/microfluidics.png)
 
-![[microrheo.png]]
+![Image](/projects/microrheo.png)
 
-![[paperbots.png]]
+![Image](/projects/paperbots.png)
 
-![[plantplasters.png]]
+![Image](/projects/plantplasters.png)
 
-![[print3D.png]]
+![Image](/projects/print3D.png)
 
-![[product.png]]
+![Image](/projects/product.png)
 
-![[rheoscatter.png]]
+![Image](/projects/rheoscatter.png)
 
-![[shapemem.png]]
+![Image](/projects/shapemem.png)
 
-![[silkcellulose.png]]
+![Image](/projects/silkcellulose.png)
 
-![[smartdrops.png]]
+![Image](/projects/smartdrops.png)
 
 **Contact: ptspicer at gmail dot com**
