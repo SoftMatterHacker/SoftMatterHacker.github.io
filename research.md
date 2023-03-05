@@ -11,46 +11,46 @@ title: SoftMatterHacker.com - People
  [Scopus](http://www.scopus.com/authid/detail.url?origin=resultslist&authorId=56210450800) -  [Research Gate](http://www.researchgate.net/profile/Patrick_Spicer/) - [YouTube](https://www.youtube.com/user/ptspicer)
 
 
-![Image](/projects/asthma.png)
+![Image](/projects/asthma.png | width=50)
 
-![Image](/projects/biofilms.png)
+![Image](/projects/biofilms.png | width=50)
 
-![Image](/projects/comets.png)
+![Image](/projects/comets.png | width=50)
 
-![Image](/projects/cubosomes.png)
+![Image](/projects/cubosomes.png | width=50)
 
-![Image](/projects/dissolution.png)
+![Image](/projects/dissolution.png | width=50)
 
-![Image](/projects/emulsionarrest.png)
+![Image](/projects/emulsionarrest.png | width=50)
 
-![Image](/projects/endoskeleton.png)
+![Image](/projects/endoskeleton.png | width=50)
 
-![Image](/projects/extension.png)
+![Image](/projects/extension.png | width=50)
 
-![Image](/projects/jellyfish.png)
+![Image](/projects/jellyfish.png | width=50)
 
-![Image](/projects/leafsprays.png)
+![Image](/projects/leafsprays.png | width=50)
 
-![Image](/projects/meat.png)
+![Image](/projects/meat.png | width=50)
 
-![Image](/projects/microfluidics.png)
+![Image](/projects/microfluidics.png | width=50)
 
-![Image](/projects/microrheo.png)
+![Image](/projects/microrheo.png | width=50)
 
-![Image](/projects/paperbots.png)
+![Image](/projects/paperbots.png | width=50)
 
-![Image](/projects/plantplasters.png)
+![Image](/projects/plantplasters.png | width=50)
 
-![Image](/projects/print3D.png)
+![Image](/projects/print3D.png | width=50)
 
-![Image](/projects/product.png)
+![Image](/projects/product.png | width=50)
 
-![Image](/projects/rheoscatter.png)
+![Image](/projects/rheoscatter.png | width=50)
 
-![Image](/projects/shapemem.png)
+![Image](/projects/shapemem.png | width=50)
 
-![Image](/projects/silkcellulose.png)
+![Image](/projects/silkcellulose.png | width=50)
 
-![Image](/projects/smartdrops.png)
+![Image](/projects/smartdrops.png | width=50)
 
 **Contact: ptspicer at gmail dot com**
