@@ -16,19 +16,13 @@ title: SoftMatterHacker.com - People
 
 
 | ![Image](/projects/asthma.png) | ![Image](/projects/biofilms.png)   | ![Image](/projects/comets.png)    |
-| :---:   | :---: | :---: |
+| :----:   | :----: | :----: |
 | ![Image](/projects/cubosomes.png) | ![Image](/projects/dissolution.png)   | ![Image](/projects/emulsionarrest.png)    |
-| :---:   | :---: | :---: |
 | ![Image](/projects/extension.png) | ![Image](/projects/endoskeleton.png)   | ![Image](/projects/jellyfish.png)    |
-| :---:   | :---: | :---: |
 | ![Image](/projects/leafsprays.png) | ![Image](/projects/meat.png)   | ![Image](/projects/microfluidics.png)    |
-| :---:   | :---: | :---: |
 | ![Image](/projects/microrheo.png) | ![Image](/projects/paperbots.png)   | ![Image](/projects/plantplasters.png)    |
-| :---:   | :---: | :---: |
 | ![Image](/projects/product.png) | ![Image](/projects/rheoscatter.png)   | ![Image](/projects/shapemem.png)    |
-| :---:   | :---: | :---: |
 | ![Image](/projects/silkcellulose.png) |  | ![Image](/projects/smartdrops.png)    |
-| :---:   | :---: | :---: |
 
 
 **Contact: ptspicer at gmail dot com**
