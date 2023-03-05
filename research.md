@@ -30,4 +30,28 @@ title: SoftMatterHacker.com - People
 | ![Image](/projects/silkcellulose.png) | ![Image](/projects/smartdrops.png) |
 
 
+<p align = "center">
+<img src="/projects/cubosomes.png" width="201px" >
+<img src="/projects/print3d.png" width="195px">
+<img src="/projects/dissolution.png" width="197px">
+<img src="/projects/jellyfish.png" width="200px">
+<img src="/projects/leafsprays.png" width="202px">
+<img src="/projects/emulsionarrest.png" width="198px" >
+<img src="/projects/plantplasters.png" width="200px" >
+<img src="/projects/microfluidics.png" width="210px" >
+<img src="/projects/biofilms.png" width="200px" >
+<img src="/projects/silkcellulose.png" width="200px" >
+<img src="/projects/asthma.png" width="200px" >
+<img src="/projects/paperbots.png" width="215px" >
+<img src="/projects/comets.png" width="200px" >
+<img src="/projects/endoskeleton.png" width="200px" >
+<img src="/projects/smartdrops.png" width="200px" >
+<img src="/projects/shapemem.png" width="200px" >
+<img src="/projects/rheoscatter.png" width="200px" >
+<img src="/projects/microrheo.png" width="200px" >
+<img src="/projects/extension.png" width="200px" >
+<img src="/projects/product.png" width="200px" >
+<img src="/projects/meat.png" width="200px" >
+</p>
+
 **Contact: ptspicer at gmail dot com**
