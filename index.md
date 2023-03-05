@@ -3,6 +3,7 @@ layout: default
 title: SoftMatterHacker.com - People
 ---
 
+## Home
 
  [Home](index.md) - [Research](research.md) - [Publications](publications.md) - [Blog](blog.md) - [Talks](talks.md) - [About](whoweare.md) - [UNSW](https://research.unsw.edu.au/people/associate-professor-patrick-spicer)
  
