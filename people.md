@@ -3,6 +3,12 @@ layout: default
 title: SoftMatterHacker.com - Group members
 ---
 
+ [Home](index.md) - [Research](research.md) - [Publications](publications.md) - [Blog](blog.md) - [Talks](talks.md) - [About](whoweare.md) - [UNSW](https://research.unsw.edu.au/people/associate-professor-patrick-spicer)
+ 
+ [Twitter](http://twitter.com/SoftMatterHackr/) -  [Instagram](http://instagram.com/softmatterhacker/) -  [LinkedIn](http://www.linkedin.com/pub/pat-spicer/2/41a/8b3) -  [Google Scholar](http://scholar.google.com/citations?hl=en&user=PyAxphYAAAAJ&view_op=list_works&pagesize=100) - 
+ [Scopus](http://www.scopus.com/authid/detail.url?origin=resultslist&authorId=56210450800) -  [Research Gate](http://www.researchgate.net/profile/Patrick_Spicer/) - [YouTube](https://www.youtube.com/user/ptspicer)
+
+
 Here you can find the current group members, as well as an archive of the completed works of past members.
 We have a core team of researchers and usually have several overseas visitors and short-term project students around!
 The group is committed to diverse membership and perspectives to ensure continued innovation.
