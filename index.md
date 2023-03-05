@@ -13,30 +13,19 @@ title: SoftMatterHacker.com - People
 ### What we do - [People](people.md)
 
 * Focus on the understanding, design, and creation of soft materials and complex liquid microstructures in commercial products, biological tissues, and even soft robots.
-
 * Maintain strength in microscopy, for quantitative study of soft material structures, and rheology, for measurement of flow and mechanical properties.
-
-* Enable the development of novel active ingredient delivery methods for consumer products, respiratory delivery technologies for pharmaceuticals, and even new insights into environmental phenomena like thunderstorm asthma.
-
 * Work with industry and academic partners to understand complex fluid product and material performance and design novel complex fluid materials and products.
-
 * More background on our group and members can be found at our [UNSW site](https://research.unsw.edu.au/people/associate-professor-patrick-spicer) and in this post.
-
 * Prospective PhD and honours students: check our research projects page to see where you might want to work.
 
 
 ### Research areas - Project pages
 
 * Formulated product development and scale-up - Develop and evaluate innovative microstructured fluid products with biological and industrial relevance.
-
 * Rheology measurement and design - Novel approaches to understanding the microstructure behind commercial fluid flows and performance
-
 * 3D printing - Use surprising materials to print three-dimensional designs. How will your new food, biomaterial, cosmetic, or coating behave when you try to 3D print with it?
-
 * Engineered nanocellulose - Harness bacterial producers of cellulose nanofibers to weave, template, and manufacture advanced materials.
-
 * Emulsions and their shapes - Emulsion droplets are used in vaccines, pesticides, cosmetics, and foods by dispersing one liquid, like an oil, in another, like water.
-
 * Cubosome and hexosome nanoparticles - Nanostructured liquid crystal particles with unique shape and biological function.
 
 
@@ -47,18 +36,15 @@ title: SoftMatterHacker.com - People
 - Hosseini, M., Babayekhorasani, F., Guo, Z., Liang, K., Chen, V., & Spicer, P. T., Propulsion, deformation, and confinement response of hollow nanocellulose millimotors, J. Coll. Int. Sci., 628, 435-445, (2022). [pdf](https://nonequilibrium.com/pdf/MaryamMillimotorsJCIS.pdf) or [preprint](http://arxiv.org/abs/2206.03232)
 - Marasini, N., Sheikh, Z., Wong, C., Hosseini, M., Spicer, P. T., Young, P., Ong, H. X., & Traini, D., Development of excipients free inhalable co-spray-dried tobramycin and diclofenac formulations for cystic fibrosis using two and three fluid nozzles, Int. J. Pharm., 624, 121989, (2022). [pdf](https://www.sciencedirect.com/science/article/pii/S0378517322005440)
 - Babayekhorasani, F., Hosseini, M., & Spicer, P. T., Molecular and colloidal transport in bacterial cellulose biofilms, Biomacromolecules, 23, 6, 2404-2414 (2022). [pdf](https://nonequilibrium.com/pdf/FiroozehBiofilmDiffusionBiomac2022.pdf) or [preprint](https://arxiv.org/pdf/2202.13672)
-- Bradbury, P., Cidem, A., Mahmoodi, H., Davies, J., & Spicer, P. T., Prescott, S., Kabakova, I., Ong, H., & Traini, D., Timothy Grass Pollen Induces Spatial Reorganisation of F-Actin and Loss of Junctional Integrity in Respiratory Cells, Inflammation, doi: 10.1007/s10753-021-01614-9 (2022).([pdf](https://nonequilibrium.com/pdf/BradburyInflammation2022.pdf)
+- Bradbury, P., Cidem, A., Mahmoodi, H., Davies, J., & Spicer, P. T., Prescott, S., Kabakova, I., Ong, H., & Traini, D., Timothy Grass Pollen Induces Spatial Reorganisation of F-Actin and Loss of Junctional Integrity in Respiratory Cells, Inflammation, doi: 10.1007/s10753-021-01614-9 (2022). [pdf](https://nonequilibrium.com/pdf/BradburyInflammation2022.pdf)
 - Muin, R., Spicer, P., Tang, K., Niu, Y., Hosseini, M., Mostaghimi, P., & Armstrong, R. T., Dynamic X-ray tomography of microfibrous cellulose liquid foams using deep learning. Chem. Eng. Sci., 248, 117173 (2022). [pdf](https://nonequilibrium.com/pdf/PreProofRubaiyaFoam_e2107003118.pdf)
 
 
 ### Recent blog posts - [All blog posts](posts.md)
 
 * 2017.03.11 ImageJ: Analyzing motion study
-
 * 2017.01.22 ImageJ: Analyzing touching circles to characterize emulsion droplets
-
 * 2017.01.22 Tools you need: ImageJ and FIJI
-
 * 2014.02.05 Who we are
 
 
@@ -72,9 +58,7 @@ title: SoftMatterHacker.com - People
 ### Teaching - UNSW Sydney courses
 
 * CEIC4007: Chemical Product Design Project Thesis A
-
 * CEIC4008: Chemical Product Design Project Thesis B
-
 * CEIC6711: Complex Fluid Microstructure and Rheology
 
 
