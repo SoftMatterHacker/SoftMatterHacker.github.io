@@ -11,8 +11,8 @@ title: SoftMatterHacker.com - People
  [Scopus](http://www.scopus.com/authid/detail.url?origin=resultslist&authorId=56210450800) -  [Research Gate](http://www.researchgate.net/profile/Patrick_Spicer/) - [YouTube](https://www.youtube.com/user/ptspicer)
 
 
-| [Home](index.md)| [Research](research.md) | [Publications](publications.md) |
-| :---:   | :---: | :---: |
+| [Home](index.md)| [Research](research.md) | [Publications](publications.md) | [Blog](blog.md) | [Talks](talks.md) | [About](people.md) | [UNSW](https://research.unsw.edu.au/people/associate-professor-patrick-spicer) |
+| :---:   | :---: | :---: | :---:   | :---: | :---: | :---: |
 
 
 
