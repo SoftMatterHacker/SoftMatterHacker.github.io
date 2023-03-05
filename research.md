@@ -15,7 +15,7 @@ title: SoftMatterHacker.com - People
 | :---:   | :---: | :---: |
 | Seconds | 301   | 283   |
 
-| ![Image](/projects/asthma.png | width=50) | ![Image](/projects/biofilms.png | width=50)   | ![Image](/projects/comets.png | width=50)    |
+| ![Image](/projects/asthma.png) | ![Image](/projects/biofilms.png)   | ![Image](/projects/comets.png)    |
 | :---:   | :---: | :---: |
 | Seconds | 301   | 283   |
 
@@ -25,40 +25,40 @@ title: SoftMatterHacker.com - People
 
 
 
-![Image](/projects/cubosomes.png | width=50)
+![Image](/projects/cubosomes.png)
 
-![Image](/projects/dissolution.png | width=50)
+![Image](/projects/dissolution.png)
 
-![Image](/projects/emulsionarrest.png | width=50)
+![Image](/projects/emulsionarrest.png)
 
-![Image](/projects/endoskeleton.png | width=50)
+![Image](/projects/endoskeleton.png)
 
-![Image](/projects/extension.png | width=50)
+![Image](/projects/extension.png)
 
-![Image](/projects/jellyfish.png | width=50)
+![Image](/projects/jellyfish.png)
 
-![Image](/projects/leafsprays.png | width=50)
+![Image](/projects/leafsprays.png)
 
-![Image](/projects/meat.png | width=50)
+![Image](/projects/meat.png)
 
-![Image](/projects/microfluidics.png | width=50)
+![Image](/projects/microfluidics.png)
 
-![Image](/projects/microrheo.png | width=50)
+![Image](/projects/microrheo.png)
 
-![Image](/projects/paperbots.png | width=50)
+![Image](/projects/paperbots.png)
 
-![Image](/projects/plantplasters.png | width=50)
+![Image](/projects/plantplasters.png)
 
-![Image](/projects/print3D.png | width=50)
+![Image](/projects/print3D.png)
 
-![Image](/projects/product.png | width=50)
+![Image](/projects/product.png)
 
-![Image](/projects/rheoscatter.png | width=50)
+![Image](/projects/rheoscatter.png)
 
-![Image](/projects/shapemem.png | width=50)
+![Image](/projects/shapemem.png)
 
-![Image](/projects/silkcellulose.png | width=50)
+![Image](/projects/silkcellulose.png)
 
-![Image](/projects/smartdrops.png | width=50)
+![Image](/projects/smartdrops.png)
 
 **Contact: ptspicer at gmail dot com**
