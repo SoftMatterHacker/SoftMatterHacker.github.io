@@ -51,7 +51,7 @@ title: SoftMatterHacker.com - People
 - Muin, R., Spicer, P., Tang, K., Niu, Y., Hosseini, M., Mostaghimi, P., & Armstrong, R. T., Dynamic X-ray tomography of microfibrous cellulose liquid foams using deep learning. Chem. Eng. Sci., 248, 117173 (2022). [pdf](https://nonequilibrium.com/pdf/PreProofRubaiyaFoam_e2107003118.pdf)
 
 
-### Recent blog posts - All blog posts
+### Recent blog posts - [All blog posts](./blog/posts.md)
 
 * 2017.03.11 ImageJ: Analyzing motion study
 
