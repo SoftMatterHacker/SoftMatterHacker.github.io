@@ -41,7 +41,7 @@ title: SoftMatterHacker.com - People
 
 ### 2020 
 
-- Jun 2020 Soft Nanoparticles: [Real Nanoscience podcast] (https://www.youtube.com/watch?v=UDwL3n82iKE)
+- Jun 2020 Soft Nanoparticles: [Real Nanoscience podcast](https://www.youtube.com/watch?v=UDwL3n82iKE)
 - Feb 2020 ECR Career discussion: ACIS Student Meeting 
 - Aug 2020 Rheology and flow at the beamline - what could we do?, [2020 Australian Synchrotron User Meeting](https://www.ansto.gov.au/whats-on/user-meeting-2020)
 - May 2020 Industry-Academic Collaboration: [Australasian Colloid and Interfaces Society - ECR Conf.](https://acis.wildapricot.org/ACIS-ECR/)
