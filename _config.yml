@@ -14,7 +14,7 @@ plugins:
 - jekyll-remote-theme
 - jekyll-relative-links
 #  - jekyll-feed
-#  - jekyll-sitemap
+- jekyll-sitemap
 
 relative_links:
   enabled: true
@@ -24,3 +24,5 @@ include:
   - index.md
   - talks.md
   - publications.md
+  - blog.md
+  - research.md
