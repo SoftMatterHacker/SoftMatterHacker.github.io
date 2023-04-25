@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  ImageJ Counting touching circles to evaluate emulsion droplets
 ---
 
