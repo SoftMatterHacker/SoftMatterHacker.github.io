@@ -19,15 +19,3 @@ title: SoftMatterHacker.com - Blog
   {% endfor %}
 </ul> 
  
-### ImageJ and Image Analysis Posts
- 
--   [2017-03-11 ImageJ: Analyzing motion study](/posts/imagej/motion-study/motionstudy.md)
--   [2017-01-22 ImageJ: Analyzing touching circles to characterize emulsion droplets](https://nonequilibrium.com/post/imagej-touching-circles/imagej-touching-circles.md)
--   [2017-01-22 Tools you need: ImageJ and FIJI](https://nonequilibrium.com/post/imagej-fiji.md)
-
--   [2017-01-01 Complex fluids group: Equipment list](https://nonequilibrium.com/post/group-equipment/groupequipment.md)
-
--   [2016-06-10 Travel to Sydney FAQ](https://nonequilibrium.com/post/travelsydneyfaq.md)
--   [2014-02-05 Who we are](https://nonequilibrium.com/post/whoweare.md)
--   [2012-11-01 Welcome](https://nonequilibrium.com/post/welcome.md)
- 
