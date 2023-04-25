@@ -17,6 +17,16 @@ title: SoftMatterHacker.com - Blog
  [YouTube](https://www.youtube.com/user/ptspicer)
  
  
+### Jekyll indexed posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul> 
+ 
 ### ImageJ and Image Analysis Posts
  
 -   [2017-03-11 ImageJ: Analyzing motion study](/posts/imagej/motion-study/motionstudy.md)
